@@ -1,5 +1,5 @@
 streamlit>=1.22.0
-streamlit-plotly-events>=1.0.0
+streamlit-plotly-events==1.1.0 
 Pillow>=9.5.0
 plotly>=5.15.0
 pandas>=1.5.0
