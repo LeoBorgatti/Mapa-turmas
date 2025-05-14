@@ -1,5 +1,5 @@
 streamlit>=1.22.0
-git+https://github.com/andfanilo/streamlit-plotly-events.git@main
+streamlit-plotly-events
 Pillow>=9.5.0
 plotly>=5.15.0
 pandas>=1.5.0
